@@ -1,0 +1,21 @@
+* {
+    font-family: Arial, sans-serif; 
+    text-align: center;
+    line-height: 1.5;
+
+}
+
+#menu {
+    list-style: none;
+}
+
+img {
+    width: 450px;
+    height: auto;
+}
+
+ol, ul {
+    list-style-position: inside;
+    padding-left: 0;
+}
+
